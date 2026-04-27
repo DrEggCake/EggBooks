@@ -122,5 +122,5 @@ This plugin uses:
 * Foundation by MineAcademy
   https://github.com/kangarko/Foundation
 
-* ACF (Aikar Command Framework)
+* ACF
   https://github.com/aikar/commands
