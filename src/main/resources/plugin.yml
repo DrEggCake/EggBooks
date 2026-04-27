@@ -1,0 +1,6 @@
+name: EggBooks
+version: '1.0'
+main: me.dreggcake.eggBooks.EggBooks
+api-version: '1.21'
+authors: [ DrEggCake ]
+description: Create interactive books on the fly

@@ -1,0 +1,18 @@
+books:
+  guide:
+    message: "<gold>Opening guide..."
+    title: "<yellow>Guide Book"
+    author: "<gray>Server"
+    pages:
+      -
+        - "<green>Welcome!"
+      -
+        - "<click:run_command:'/spawn'>Go spawn</click>"
+
+  help:
+    message: "<gold>Opening help..."
+    title: "<green>Help"
+    author: "Server"
+    pages:
+      -
+        - "Help page"
